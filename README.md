@@ -1,6 +1,7 @@
 <h1 align="center">Hello 👋</h1>
 
 <h2 align="center" style="color: green;">I'm Dumindu Dissanayake</h2>
+I'm a passionate software developer from Pugoda, Sri Lanka 🇱🇰, currently studying at **SLIIT**. I love exploring new technologies and building innovative solutions. 🚀  
 
 ---
 
