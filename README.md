@@ -65,7 +65,7 @@ I'm a passionate software developer from Pugoda, Sri Lanka 🇱🇰, currently s
 
 ### 📫 Connect with me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/dumindu-dissanayake-24168b31a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/YOUR-FACEBOOK" target="_blank">
