@@ -40,11 +40,11 @@
 
 ## 📊 My GitHub Statistics:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DuminduDissanayake&show_icons=true&theme=dark&count_private=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DissanayakeDA&show_icons=true&theme=dark&count_private=true" width="50%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DuminduDissanayake&theme=dark&hide_border=true" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DissanayakeDA&theme=dark&hide_border=true" width="50%" />
 </p>
 
 ---
