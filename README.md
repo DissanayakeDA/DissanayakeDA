@@ -1,85 +1,179 @@
-<h1 align="center">Hello 👋</h1>
+<!-- ================================================ -->
+<!--          DUMINDU DISSANAYAKE · README           -->
+<!-- ================================================ -->
 
-<h2 align="center" style="color: green;">I'm Dumindu Dissanayake</h2>
-I'm a passionate software developer from Pugoda, Sri Lanka 🇱🇰, currently studying at SLIIT. I love exploring new technologies and building innovative solutions. 🚀  
-
----
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /> 
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" alt="tailwind" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />   
-</div></td><td valign="top" width="33%">
-
-### Backend  
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-<img style="margin: 10px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C#" height="50" /
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /> 
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png" alt=".net" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 
-</div></td><td valign="top" width="33%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E40AF,100:0EA5E9&height=220&section=header&text=Dumindu%20Dissanayake&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20Developer%20·%20Problem%20Solver%20·%20SLIIT%20Undergraduate&descSize=16&descAlignY=60&animation=fadeIn" />
 
-### DevOps  
-<div align="center">    
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="figma" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Github" height="50" /> 
-<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" height="50" />  
-</div></td></tr></table>  
+<a href="https://dumindu.me">
+  <img src="https://img.shields.io/badge/Portfolio-dumindu.me-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/dumindu-dissanayake-24168b31a">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:dumindudissanayake2k01@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/DuminduDissanayake">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<br/> 
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=800&color=0EA5E9&center=true&vCenter=true&width=720&lines=Final-year+IT+undergraduate+%40+SLIIT;Software+Engineer+Intern+%40+HashBaze;I+don't+stop+until+I+understand+how+it+works;Building+with+Next.js+%2C+NestJS+%2C+Python+%2C+Cloud" />
 
-## 📊 My GitHub Statistics:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DissanayakeDA&show_icons=true&theme=dark&count_private=true" width="50%" />
+</div>
+
+<br/>
+
+## ╱╱  About Me
+
+```ts
+const dumindu = {
+  location:    "Pugoda, Sri Lanka 🇱🇰",
+  role:        "Software Engineer Intern @ HashBaze",
+  education:   "B.Sc. (Hons) Information Technology — SLIIT",
+  focus:       ["Full-Stack Web", "Cloud & DevOps", "AI Integration"],
+  currently:   "Shipping production systems with Next.js, NestJS & GCP",
+  philosophy:  "Not satisfied until I understand how it actually works",
+  funFact:     "I love turning real-world problems into clean software 🎯",
+};
+```
+
+I'm drawn to software engineering for the **problem-solving**. I tend to go deep on things — I'm not satisfied until I understand how something *actually* works, not just *that* it works. Beyond coursework, I've built that out through team projects, personal builds, an internship, and freelance work along the way.
+
+<br/>
+
+## ╱╱  Tech Arsenal
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+#### 🎨 Frontend
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,threejs,html,css" />
 </p>
+Next.js · React · TypeScript · Three.js · Framer Motion · Tailwind
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DissanayakeDA&theme=dark&hide_border=true" width="50%" />
+</td>
+<td valign="top" width="33%">
+
+#### ⚙️ Backend
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,flask,java,spring,php" />
 </p>
+NestJS · Node.js · Flask · Spring Boot · Express · Python · Java
 
----
+</td>
+<td valign="top" width="33%">
 
-### 📌 Most Used Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuminduDissanayake&layout=compact&theme=dark" />
+#### ☁️ Data & Cloud
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,gcp,aws,git,postman" />
 </p>
+PostgreSQL · MongoDB · Docker · GCP Cloud Run · AWS (S3·RDS·SNS) · Linode
 
----
+</td>
+</tr>
+</table>
 
-### 📫 Connect with me:
-<p align="center">
-  <a href="www.linkedin.com/in/dumindu-dissanayake-24168b31a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/YOUR-FACEBOOK" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
+<br/>
 
----
+## ╱╱  What I'm Building
 
-> 🚀 **Fun fact:** I love solving real-world problems through coding and building efficient software solutions! 🎯
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🌐 dumindu.me
+**Personal Developer Portfolio**
 
-### 🔥 Profile Views:
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DuminduDissanayake&color=blue" />
-</p>
+Fully animated full-stack portfolio with a 3D scene, live GitHub repo browser, and a server-side contact API.
+
+`Next.js 16` `React Three Fiber` `Framer Motion` `Resend`
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 onlinephysics.lk
+**Learning Management System**
+
+Animated landing page with a NestJS/MongoDB payment module — automated enrollment via cron jobs, deployed on Linode.
+
+`Next.js` `NestJS` `MongoDB` `Stripe` `Linode`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏫 Smart Campus Operations Hub
+**Incident ticketing module**
+
+Spring Boot REST API with SLA tracking, RBAC, Cloudinary uploads, and a React/TS frontend.
+
+`Spring Boot` `React` `TypeScript` `Cloudinary`
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 UniChat
+**Singlish → Sinhala NLP**
+
+Flask model-training pipeline + NestJS Auth/OTP microservices with WhatsApp delivery and RabbitMQ queuing.
+
+`Flask` `NestJS` `RabbitMQ` `NLP`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## ╱╱  Experience Snapshot
+
+> **Software Engineer Intern · HashBaze (Pvt) Ltd** — *Aug 2025 → May 2026*
+>
+> ▸ Engineered full-stack apps with **React, TypeScript, NestJS, Flask** — integrated **Stripe** for payments.
+> ▸ Diagnosed and restored legacy systems — **fixed 150+ non-functional API endpoints**.
+> ▸ Built AI features with the **OpenAI API** and trained custom LLMs in Python/Colab for real-time use.
+> ▸ Containerized with **Docker Compose**, deployed across **GCP Cloud Run** and **AWS (RDS, S3, SNS)**.
+
+<br/>
+
+## ╱╱  GitHub Pulse
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DuminduDissanayake&show_icons=true&count_private=true&hide_border=true&title_color=0EA5E9&icon_color=0EA5E9&text_color=cbd5e1&bg_color=0F172A" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuminduDissanayake&layout=compact&hide_border=true&title_color=0EA5E9&text_color=cbd5e1&bg_color=0F172A&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DuminduDissanayake&hide_border=true&background=0F172A&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DuminduDissanayake&bg_color=0F172A&color=0EA5E9&line=0EA5E9&point=ffffff&area=true&hide_border=true" />
+</div>
+
+<br/>
+
+## ╱╱  Let's Build Something
+
+<div align="center">
+
+If you're working on something interesting — or just want to chat about Next.js, distributed systems, or how to actually understand what your framework is doing under the hood — my inbox is open.
+
+<a href="https://dumindu.me"><img src="https://img.shields.io/badge/🌐%20Portfolio-dumindu.me-0EA5E9?style=flat-square" /></a>
+<a href="mailto:dumindudissanayake2k01@gmail.com"><img src="https://img.shields.io/badge/📧%20Email-dumindudissanayake2k01%40gmail.com-EA4335?style=flat-square" /></a>
+<a href="tel:+94772484930"><img src="https://img.shields.io/badge/📱%20Phone-%2B94%2077%20248%204930-25D366?style=flat-square" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=DuminduDissanayake&label=Profile%20views&color=0EA5E9&style=flat-square" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:1E40AF,100:0F172A&height=100&section=footer" />
+
+</div>
