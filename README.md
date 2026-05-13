@@ -146,16 +146,16 @@ Flask model-training pipeline + NestJS Auth/OTP microservices with WhatsApp deli
 ## ╱╱  GitHub Pulse
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DuminduDissanayake&show_icons=true&count_private=true&hide_border=true&title_color=0EA5E9&icon_color=0EA5E9&text_color=cbd5e1&bg_color=0F172A" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuminduDissanayake&layout=compact&hide_border=true&title_color=0EA5E9&text_color=cbd5e1&bg_color=0F172A&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DissanayakeDA&show_icons=true&count_private=true&hide_border=true&title_color=0EA5E9&icon_color=0EA5E9&text_color=cbd5e1&bg_color=0F172A" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DissanayakeDA&layout=compact&hide_border=true&title_color=0EA5E9&text_color=cbd5e1&bg_color=0F172A&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DuminduDissanayake&hide_border=true&background=0F172A&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DissanayakeDA&hide_border=true&background=0F172A&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DuminduDissanayake&bg_color=0F172A&color=0EA5E9&line=0EA5E9&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DissanayakeDA&bg_color=0F172A&color=0EA5E9&line=0EA5E9&point=ffffff&area=true&hide_border=true" />
 </div>
 
 <br/>
